@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\RemoteControl.csproj",
+      "projectName": "RemoteControl",
+      "projectPath": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\RemoteControl.csproj",
       "packagesPath": "C:\\Users\\Shery\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

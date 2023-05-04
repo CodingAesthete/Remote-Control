@@ -1,0 +1,14 @@
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.exe
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.deps.json
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.runtimeconfig.json
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.runtimeconfig.dev.json
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.dll
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\bin\Debug\netcoreapp3.1\RemoteControl.pdb
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.csproj.AssemblyReference.cache
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.AssemblyInfoInputs.cache
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.AssemblyInfo.cs
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.dll
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.pdb
+C:\Users\Shery\Desktop\C#-Projects\StartupApp\Remote-Control\ConsoleApp1\obj\Debug\netcoreapp3.1\RemoteControl.genruntimeconfig.cache

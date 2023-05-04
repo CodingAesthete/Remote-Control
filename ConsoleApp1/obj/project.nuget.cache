@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lxqQVQJqahW2JP3o9R6BdW1vKiGhOj5Ksi4uv6U+NCzPRJjr6joRbN7/247dwSVRo+crhpW+gzI4E3AigWPRQ==",
+  "dgSpecHash": "CffbyCyzgZQaQNo2Jd1/wxA5OLH3dNp04PJtwyZ30TjByer0yJduohZql3tS7NzIT0kJ1hj+AbnSad2oiSNSSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Shery\\Desktop\\C#-Projects\\StartupApp\\Remote-Control\\ConsoleApp1\\RemoteControl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
