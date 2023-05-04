@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RemoteControl
 {
-    class TVRemote
+    class Remote
     {
         public static IElectronicDevice GetTV()
         {

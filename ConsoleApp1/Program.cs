@@ -8,7 +8,7 @@ namespace RemoteControl
     {
         static void Main(string[] args)
         {
-            IElectronicDevice TV = TVRemote.GetTV();
+            IElectronicDevice TV = Remote.GetTV();
             PowerButton powBut = new PowerButton(TV);
             VolumeButton volBut = new VolumeButton(TV);
             powBut.Execute();
